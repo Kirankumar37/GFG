@@ -1,0 +1,15 @@
+Introduction: "Thank you for the opportunity! I am Kirankumar Velmurugan, and I am from Salem. Currently, I am pursuing my Bachelor's degree in Electronics and Communication Engineering at Rajalakshmi Institute of Technology.
+
+Project Experience: I’d like to share details about a team project I worked on titled Energy Management in Commercial Facilities. In this project, we created a prototype for a boardroom meeting using technologies like Raspberry Pi, ESP32, camera module, voltage and current sensors, LED displays, and basic sensors. The key functionality of the system involves human presence detection: When someone opens the door, a Hall Effect sensor triggers the ESP32, which turns on the lights and activates the camera module. The camera identifies the number of people in the room, and this data is sent to the Raspberry Pi. Using the MQTT protocol, the Raspberry Pi communicates this data back to the ESP32, which controls the lights via relay modules. We also integrated a trailing edge dimmer circuit to adjust the light intensity based on the analyzed data and created a user interface to display power usage for energy conservation analysis.
+
+Internship Experience: I have interned at Eubix Technology as a project trainee, where I learned to integrate data into bus displays using specialized software and also worked on data manipulation in Excel using Pandas.
+
+Additionally, I completed an online internship with Revamp Academy focused on frontend development, where I gained hands-on experience with HTML, CSS, and JavaScript. Using these skills, I have started building my own portfolio webpage.
+
+I also had the opportunity to participate in a 2-day hands-on experience in FPGA synthesis using Intel Quartus Prime. This experience helped me understand the basic VLSI workflow and the use of hardware description languages for synthesizing ICs.
+
+Certifications: I am also certified in System Design through Verilog from NPTEL, where I achieved the Elite category certification.
+
+Strengths and Weaknesses: One of my key strengths is my adaptability to new conditions, and I am confident in my learning ability. Regarding my weakness, I tend to overthink at times, but I am actively working on it by setting clear boundaries and focusing on the actions that need to be taken.
+
+Hobbies: In my free time, I enjoy sketching and cooking, which help me unwind and stay creative.
